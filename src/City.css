@@ -1,0 +1,68 @@
+#city-input {
+  float: center;
+  width: 160%;
+  height: 40px;
+  border-radius: 3%;
+  border: solid 0.2px transparent;
+  margin-left: 0%;
+}
+#button {
+  display: inline;
+  margin-left: 112%;
+  margin-top: 0.5%;
+}
+
+h1 {
+  color: #9f5f80;
+  font-size: 40px;
+  margin-top: 0%;
+  margin-left: 0.5%;
+  text-align: left;
+}
+h5 {
+  text-align: left;
+  margin-top: -2%;
+  margin-left: 0.5%;
+  padding: 0;
+}
+h6 {
+  text-align: left;
+  margin-top: -1.5%;
+  margin-left: 0.5%;
+}
+
+.units {
+  position: relative;
+  font-size: 17px;
+  text-decoration: none;
+  line-height: 1;
+  top: -60px;
+  margin-left: -25%;
+}
+
+span.weather_info {
+  position: relative;
+  font-size: 16px;
+  float: right;
+  margin-right: 40%;
+  margin-top: 20%;
+}
+
+ul {
+  list-style-type: none;
+  line-height: 1;
+}
+
+.degree {
+  position: relative;
+  font-size: 110px;
+  margin-left: 5px;
+  font-weight: 400;
+}
+
+.City canvas {
+  margin-right: 10px;
+  margin-left: 7px;
+  margin-top: 55px;
+  display: inline-block;
+}
