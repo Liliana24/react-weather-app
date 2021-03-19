@@ -6,7 +6,9 @@ export default function Footer() {
       <footer class="footer">
         Coded by <a href="mailto:tatianapariente@yahoo.fr">Tatiana Pariente</a>{" "}
         and{" "}
-        <a href="https://github.com/Liliana24/my-app">open-sourced on Github</a>{" "}
+        <a href="https://github.com/Liliana24/react-weather-app">
+          open-sourced on Github
+        </a>{" "}
         and hosted on Netlify
       </footer>
     </div>

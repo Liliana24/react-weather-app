@@ -9,9 +9,7 @@ export default function App() {
       <div className="Container">
         <City defaultCity="New York" />
       </div>
-      <div className="Footer">
-        <Footer />
-      </div>
+      <Footer />
     </div>
   );
 }
